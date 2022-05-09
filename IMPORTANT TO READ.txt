@@ -2,3 +2,5 @@ please change the library of reservation the variable ( int hdepart,harriver)
  to (char hdepart [20],harriver[20])
  and dont forget the make the change in all the code add (%s) .
 this change for make the houre like thise  12:25 thake you .
+
+please try to add more line of code to this Application thank you 
